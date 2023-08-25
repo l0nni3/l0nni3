@@ -1,4 +1,5 @@
-### Hi there 👋
+### Greetings and salutations 👋
+My name is Matthew and I am an User Experience Researcher. This is my attempt to learn how to code using python, SQL, and whatever else I pick up along the way.
 
 <!--
 **l0nni3/l0nni3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
